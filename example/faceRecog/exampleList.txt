@@ -1,0 +1,22 @@
+% ====== PCA for face recognition
+faceDataRead01
+faceDisplay01
+faceDisplay02
+faceDisplay03
+meanFaceDisplay01
+varVsPcaEigNum01
+eigenFaceDisplay01
+face2dPcaProj01
+optPcaEigNum01
+dispMisclassified01
+dispMisclassified02
+optPcaEigNum02
+facePcaProjDiff01
+facePcaProjDiff02
+pcaDffsHist01
+facePcaSimilarity01
+% ====== LDA for face recognition
+face2dLdaProj01
+optLdaEigNum01
+optLdaEigNum02
+

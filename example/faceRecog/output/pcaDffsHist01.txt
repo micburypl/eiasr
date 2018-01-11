@@ -1,0 +1,2 @@
+Min DFFS = 1353.94
+Max DFFS = 2885.55

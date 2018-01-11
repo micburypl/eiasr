@@ -1,0 +1,7 @@
+[Warning: Image is too big to fit on screen; displaying at 33%] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\images\imuitools\private\initSize.m',72,1)">imuitools\private\initSize at 72</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\images\imuitools\imshow.m',283,1)">imshow at 283</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\images\imuitools\montage.m',137,1)">montage at 137</a>
+  In <a href="matlab: opentoline('D:\users\jang\books\dcpr\example\faceRecog\faceDisplay03.m',3,1)">faceDisplay03 at 3</a>
+  In <a href="matlab: opentoline('D:\users\jang\books\goWriteOutputFile.m',83,1)">goWriteOutputFile>dummyFunction at 83</a>
+  In <a href="matlab: opentoline('D:\users\jang\books\goWriteOutputFile.m',53,1)">goWriteOutputFile at 53</a>] 

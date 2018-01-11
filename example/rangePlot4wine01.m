@@ -1,0 +1,10 @@
+DS=prData('wine');
+subplot(2,1,1);
+rangeVec1=dsRangePlot(DS);
+title('Range plot of wine dataset before normalization');
+fprintf('range ratio before normalization = %g\n', max(rangeVec1)/min(rangeVec1));
+DS.input=inputNormalize(DS.input);
+subplot(2,1,2);
+rangeVec2=dsRangePlot(DS);
+title('Range plot of wine dataset after normalization');
+fprintf('range ratio after normalization = %g\n', max(rangeVec2)/min(rangeVec2));

@@ -1,0 +1,1 @@
+Recog. rate = 56.25% after 2D proj. of PCA + LDA
